@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArtDoctor
-- 👀 I’m interested in Computational Physics and Machine Learning
+- 👀 I’m interested in Computational Physics, Game Development and Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: ArtDoctorka@gmail.com / @AshPhD in Telegram
